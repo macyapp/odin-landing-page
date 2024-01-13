@@ -152,3 +152,30 @@ body {
     text-align: end;
     color: #1f2937;
 }
+
+/* Banner Section */
+.signup {
+    background-color: #3882f6;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.banner button {
+    background-color: #3882f6;
+    border: #f9faf8 solid 3px;
+    padding: 0.5em 1.5em 0.5em 1.5em;
+    border-radius: 8px;
+    color: #f9faf8;
+    font-weight: bold;
+    margin-top: 5px;
+  }
